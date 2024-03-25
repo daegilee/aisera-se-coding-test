@@ -1,0 +1,27 @@
+{
+  "code": "0",
+  "msg": "success",
+  "convert_result": {
+    "base": "USD",
+    "target": "JPY",
+    "rate": 151.5
+  },
+  "time_update": {
+    "time_unix": 1711389360,
+    "time_utc": "2024-03-25T10:56:00Z",
+    "time_zone": "America/Los_Angeles"
+  }
+}{
+  "code": "0",
+  "msg": "success",
+  "convert_result": {
+    "base": "USD",
+    "target": "KRW",
+    "rate": 1341.16
+  },
+  "time_update": {
+    "time_unix": 1711389360,
+    "time_utc": "2024-03-25T10:56:00Z",
+    "time_zone": "America/Los_Angeles"
+  }
+}
